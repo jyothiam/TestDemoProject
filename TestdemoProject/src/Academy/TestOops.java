@@ -182,7 +182,7 @@ public class TestOops {
 		Map.Entry mp=(Map.Entry)it.next();
 		System.out.println(mp.getKey());   
 		System.out.println(mp.getValue()); }
-//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
+
 	
 
 	//HashSet treeset, LinkedHashset implements Set interface 
